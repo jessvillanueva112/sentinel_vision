@@ -1,0 +1,123 @@
+# Security and Credentials
+*.env
+.env
+.env.local
+.env.production
+secrets.json
+credentials.json
+config.ini
+*.key
+*.pem
+*.p12
+
+# Twilio and API Keys (if using environment variables)
+twilio_credentials.py
+api_keys.py
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Model Files and Weights
+*.pt
+*.pth
+*.weights
+*.onnx
+*.tflite
+*.pb
+runs/
+checkpoints/
+
+# Dataset (if large)
+dataset_v1/images/
+dataset_v1/labels/
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.avi
+*.mov
+
+# Audio Files
+*.mp3
+*.wav
+*.aiff
+*.m4a
+
+# Logs and Temporary Files
+*.log
+*.tmp
+*.temp
+*.cache
+*.bak
+*.swp
+*.swo
+*~
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Training Results
+results/
+wandb/
+mlruns/
+
+# Documentation Build
+docs/_build/
+site/
+
+# Testing
+.coverage
+.pytest_cache/
+htmlcov/
+.tox/
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
