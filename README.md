@@ -11,7 +11,7 @@
 
 ## 📖 Overview
 
-Sentinel Vision is an innovative AI-powered threat detection system designed to enhance school safety through early threat detection and automated emergency response. Built by a former high school student who experienced firsthand the need for better safety measures, this system uses computer vision and machine learning to detect potential threats and trigger immediate safety protocols.
+Sentinel Vision is an innovative AI-powered threat detection system designed to enhance school safety through early threat detection and automated emergency response. Built by a student who experienced firsthand the need for better safety measures, this system uses computer vision and machine learning to detect potential threats and trigger immediate safety protocols.
 
 ### 🎯 Mission
 To create safer learning environments by providing earlier awareness of potential threats, enabling faster emergency responses, and ultimately increasing the likelihood of saving lives in critical situations.
