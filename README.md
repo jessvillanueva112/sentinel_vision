@@ -363,32 +363,6 @@ This project embraces **AI-assisted development** as a modern approach to coding
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-**Jess Villanueva** - Former high school student turned AI safety innovator
-
-> **Transparency Note**: This project was developed with AI assistance for coding implementation, while I handled the project management, system design, and ethical considerations. I believe in being open about using AI as a development tool - it's the future of coding!
-
-- **X (Twitter)**: [@jvillanueva112](https://twitter.com/jvillanueva112)
-- **LinkedIn**: [Jess Villanueva](https://linkedin.com/in/jess-villanueva)
-- **Email**: jess.villanueva.112@gmail.com
-
-## 🙏 Acknowledgments
-
-- **Buildspace**: Platform and community support
-- **YOLOv5 Community**: Open-source object detection framework
-- **OpenCV**: Computer vision library
-- **Flask Community**: Web framework and ecosystem
-- **Educational Institutions**: For inspiring safer learning environments
-
-## 📞 Support
-
-For support, questions, or collaboration opportunities:
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/sentinel-vision/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/sentinel-vision/discussions)
-- **Newsletter**: [Sentinel Serenades](https://yournewsletterlink.com) - Monthly project updates
-
 ---
 
 <div align="center">
